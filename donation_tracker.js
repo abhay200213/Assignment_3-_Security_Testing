@@ -1,3 +1,4 @@
+// Appscan
 document.getElementById("donation-form").addEventListener("submit", function (event) {
     event.preventDefault(); // Prevent form from refreshing the page.
 
